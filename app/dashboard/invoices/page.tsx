@@ -1,3 +1,4 @@
+import { fetchLatestInvoices } from "@/app/lib/data";
 import React from "react";
 
 const page = () => {
